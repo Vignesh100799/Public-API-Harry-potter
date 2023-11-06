@@ -1,0 +1,29 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+.card-title{
+    font-family: 'Bebas Neue', sans-serif;
+    text-shadow: 5px 5px 10px black;
+}
+
+.card{
+    text-align: center;
+    color: rgb(255, 255, 255) !important;
+    /* background-attachment: fixed; */
+    background: url("https://i.etsystatic.com/15590810/r/il/9fed47/1390494928/il_570xN.1390494928_b2pq.jpg");
+   
+}
+
+
+ul{
+    background-color: rgb(255, 255, 255) !important;
+    background: url("https://i.redd.it/xtjvzy5b0f511.png") !important;
+
+}
+*{
+    background-attachment: scroll;
+    background: url("https://r4.wallpaperflare.com/wallpaper/582/1022/574/harry-potter-hogwarts-castle-hd-wallpaper-49d0181d518a5d9bd6f7b84f5091f6fd.jpg");
+
+}
